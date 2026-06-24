@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0">
   <diagram name="Page-1" id="6AxY8d68MYG01BG7uqcW">
-    <mxGraphModel dx="14625" dy="7330" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" background="light-dark(#FFFFFF,#FFFFFF)" math="0" shadow="1">
+    <mxGraphModel dx="13720" dy="11570" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" background="light-dark(#FFFFFF,#FFFFFF)" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -532,8 +532,17 @@
         <mxCell id="vJZGnaCNKCYFsq7qe6Lt-13" edge="1" parent="1" source="VVqcYURe2gfnDvIVS-2d-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=light-dark(#000000,#994C00);fontSize=14;strokeColor=light-dark(#000000,#994C00);strokeWidth=13;" target="VVqcYURe2gfnDvIVS-2d-100">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eG-M4q8aMLLH53SKnkFt-3" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#006EAF;fillColor=light-dark(#000000,#330066);labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.on_premises_user;fontColor=#ffffff;" value="" vertex="1">
-          <mxGeometry height="3674" width="2189" x="-5103" y="-2294" as="geometry" />
+        <mxCell id="yqEly6eErav-UJtuWwKU-1" parent="1" style="sketch=0;verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;fillColor=#000000;align=center;outlineConnect=0;pointerEvents=1;shape=mxgraph.citrix2.data_center;" value="" vertex="1">
+          <mxGeometry height="1028.15" width="1012.52" x="-3995" y="-2299.23" as="geometry" />
+        </mxCell>
+        <mxCell id="yqEly6eErav-UJtuWwKU-2" parent="1" style="sketch=0;verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;fillColor=#000000;align=center;outlineConnect=0;pointerEvents=1;shape=mxgraph.citrix2.data_center;" value="" vertex="1">
+          <mxGeometry height="1037.53" width="1021.76" x="-5115" y="-2308.61" as="geometry" />
+        </mxCell>
+        <mxCell id="yqEly6eErav-UJtuWwKU-3" parent="1" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#A153A0;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0,0.5,0],[0.125,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[0.875,0.25,0],[1,0.5,0],[0.875,0.75,0],[0.75,1,0],[0.5,1,0],[0.125,0.75,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=mxgraph.cisco_safe.design.blank_device;resIcon=mxgraph.cisco_safe.design.nexus_data_center_switch;" value="" vertex="1">
+          <mxGeometry height="1035" width="1210" x="-4655" y="-1087" as="geometry" />
+        </mxCell>
+        <mxCell id="yqEly6eErav-UJtuWwKU-5" parent="1" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.virtual_host;" value="" vertex="1">
+          <mxGeometry height="1024" width="2178" x="-5124" y="163" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
