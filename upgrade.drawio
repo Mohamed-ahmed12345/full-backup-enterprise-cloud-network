@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0">
   <diagram name="Page-1" id="6AxY8d68MYG01BG7uqcW">
-    <mxGraphModel dx="14173" dy="8800" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" background="light-dark(#232F3E,#FFFFFF)" math="0" shadow="1">
+    <mxGraphModel dx="18860" dy="11400" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" background="light-dark(#232F3E,#FFFFFF)" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -502,10 +502,10 @@
         <mxCell id="RUZbRdO7xpZEqCK_7VyW-5" edge="1" parent="1" source="RUZbRdO7xpZEqCK_7VyW-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="RUZbRdO7xpZEqCK_7VyW-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RUZbRdO7xpZEqCK_7VyW-139" edge="1" parent="1" source="RUZbRdO7xpZEqCK_7VyW-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000,#330066);strokeWidth=11;">
+        <mxCell id="RUZbRdO7xpZEqCK_7VyW-139" edge="1" parent="1" source="RUZbRdO7xpZEqCK_7VyW-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000,#330066);strokeWidth=11;" target="KaTq5aqVhibnrpRyyDtL-57">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-445" y="-3039" />
+              <mxPoint x="-673" y="-3039" />
             </Array>
             <mxPoint x="-445" y="-2648" as="targetPoint" />
           </mxGeometry>
@@ -516,7 +516,7 @@
         <mxCell id="RUZbRdO7xpZEqCK_7VyW-140" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="&lt;h1&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(51, 0, 0)); font-size: 56px;&quot;&gt;Terraform&lt;/font&gt;&lt;/h1&gt;" vertex="1">
           <mxGeometry height="40" width="568" x="-2344.5" y="-2807" as="geometry" />
         </mxCell>
-        <mxCell id="RUZbRdO7xpZEqCK_7VyW-142" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="&lt;h1&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(51, 0, 0)); font-size: 100px;&quot;&gt;Blan Infrastructure&lt;/font&gt;&lt;/h1&gt;" vertex="1">
+        <mxCell id="RUZbRdO7xpZEqCK_7VyW-142" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="&lt;h1&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(51, 0, 0)); font-size: 100px;&quot;&gt;Plan Infrastructure&lt;/font&gt;&lt;/h1&gt;" vertex="1">
           <mxGeometry height="40" width="568" x="-3374" y="-3126" as="geometry" />
         </mxCell>
         <mxCell id="RUZbRdO7xpZEqCK_7VyW-143" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="&lt;h1&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(51, 0, 0)); font-size: 100px;&quot;&gt;Deploy Infrastrucure&lt;/font&gt;&lt;/h1&gt;" vertex="1">
