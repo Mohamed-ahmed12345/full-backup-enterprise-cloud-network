@@ -494,7 +494,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RUZbRdO7xpZEqCK_7VyW-1" parent="1" style="points=[[0.35,0,0],[0.98,0.51,0],[1,0.71,0],[0.67,1,0],[0,0.795,0],[0,0.65,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.user;fillColor=light-dark(#005073,#000066);strokeColor=none;" value="" vertex="1">
-          <mxGeometry height="507" width="507" x="-4264.5" y="-3397" as="geometry" />
+          <mxGeometry height="507" width="507" x="-4234" y="-3397" as="geometry" />
         </mxCell>
         <mxCell id="RUZbRdO7xpZEqCK_7VyW-2" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="&lt;h1&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(51, 0, 0)); font-size: 56px;&quot;&gt;Cloud Engineer&lt;/font&gt;&lt;/h1&gt;" vertex="1">
           <mxGeometry height="40" width="568" x="-4295" y="-2847" as="geometry" />
